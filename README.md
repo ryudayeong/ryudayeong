@@ -1,9 +1,19 @@
-## about me
+# Hi there! I'm 류다영 👋
 
-<hi align="left">hi , This is dayeong lyu, a developer who codes dreams.</h1>
+I'm a 3rd year Computer Science student at Yeungnam University.
 
-introuction : 영남대학교 컴퓨터공학과 3학년 류다영
-interest: 웹개발
-skill: python c++
-contact : rdy1125@yu.ac.kr
-currently studying: java , c++ 
+- 🔭 I’m currently working on **C++ Projects** and **Algorithm Practice**
+- 🌱 I’m currently learning **Web Development** and **Data Structures**
+- 💬 Ask me about **C++, Python, Git**
+- 📫 How to reach me: rdy1125@yu.ac.kr
+- ⚡ Fun fact: I love solving coding challenges and learning new tech!
+
+## Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## GitHub Stats
+![DaYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
