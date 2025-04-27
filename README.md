@@ -1,4 +1,4 @@
-# Hi there! I'm 류다영 👋
+# Hi there! I'm  류다영 👋
 
 I'm a 3rd year Computer Science student at Yeungnam University.
 
