@@ -1,4 +1,4 @@
-# Hi there! I'm  류다영 👋
+#  I'm  ryudayeong
 
 I'm a 3rd year Computer Science student at Yeungnam University.
 
@@ -6,8 +6,6 @@ I'm a 3rd year Computer Science student at Yeungnam University.
 - 🌱 I’m currently learning **Web Development** and **Data Structures**
 - 💬 Ask me about **C , java, Python, Git**
 - 📫 How to reach me: rdy1125@yu.ac.kr
-- ⚡ Fun fact: I love solving coding challenges and learning new tech!
-
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
