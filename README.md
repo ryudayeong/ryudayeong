@@ -2,9 +2,9 @@
 
 I'm a 3rd year Computer Science student at Yeungnam University.
 
-- 🔭 I’m currently working on **C++ Projects** and **Algorithm Practice**
+- 🔭 I’m currently working on **C  Projects** and **Algorithm Practice**
 - 🌱 I’m currently learning **Web Development** and **Data Structures**
-- 💬 Ask me about **C++, Python, Git**
+- 💬 Ask me about **C , java, Python, Git**
 - 📫 How to reach me: rdy1125@yu.ac.kr
 - ⚡ Fun fact: I love solving coding challenges and learning new tech!
 
